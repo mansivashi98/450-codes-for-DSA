@@ -1,7 +1,8 @@
 # 450-codes
 450 codes for DS Practice
 
-Arrays1. Reverse the array  
+Arrays  
+1. Reverse the array  
 2. Find the maximum and minimum element in an array  
 3. Find the "Kth" max and min element of an array   
 4. Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo  
@@ -38,7 +39,7 @@ Arrays1. Reverse the array
 35. Median of 2 sorted arrays of equal size  
 36. Median of 2 sorted arrays of different size  
 
-Matrix
+Matrix  
 37. Spiral traversal on a Matrix  
 38. Search an element in a matriix  
 39. Find median in a row wise sorted matrix  
@@ -50,7 +51,7 @@ Matrix
 45. Kth smallest element in a row-cpumn wise sorted matrix  
 46. Common elements in all rows of a given matrix  
 
-String
+String  
 47. Reverse a String  
 48. Check whether a String is Palindrome or not  
 49. Find Duplicate characters in a string  
@@ -95,7 +96,7 @@ String
 88. Check if two given strings are isomorphic to each other  
 89. Recursively print all sentences that can be formed from list of word lists  
 
-Searching and Sorting
+Searching and Sorting  
 90. Find first and last positions of an element in a sorted array  
 91. Find a Fixed Point (Value equal to index) in a given array  
 92. Search in a rotated sorted array  
@@ -133,7 +134,7 @@ Searching and Sorting
 124. Implement Merge-sort in-place  
 125. Partitioning and Sorting Arrays with Many Repeated Entries  
 
-LinkedList
+LinkedList  
 126. Write a Program to reverse the Linked List. (Both Iterative and recursive)  
 127. Reverse a Linked List in group of Given Size. [Very Imp]  
 128. Write a program to Detect loop in a linked list.  
@@ -171,7 +172,7 @@ LinkedList
 160. Program for n’th node from the end of a Linked List  
 161. Find the first non-repeating character from a stream of characters  
 
-Binary Trees
+Binary Trees  
 162. level order traversal  
 163. Reverse Level Order traversal  
 164. Height of a tree  
@@ -208,7 +209,7 @@ Binary Trees
 195. Find all Duplicate subtrees in a Binary tree [ IMP ]  
 196. Tree Isomorphism Problem  
 
-Binary Search Trees
+Binary Search Trees  
 197. Fina a value in a BST  
 198. Deletion of a node in a BST  
 199. Find min and max value in a BST  
@@ -232,7 +233,7 @@ Binary Search Trees
 217. Largest BST in a Binary Tree [ V.V.V.V.V IMP ]  
 218. Flatten BST to sorted list  
 
-Greedy Algos
+Greedy Algos  
 219. Activity Selection Problem  
 220. Job SequencingProblem  
 221. Huffman Coding  
@@ -269,7 +270,7 @@ Greedy Algos
 252. Rearrange characters in a string such that no two adjacent are same  
 253. Find maximum sum possible equal sum of three stacks  
 
-Backtracking
+Backtracking  
 254. Rat in a maze Problem  
 255. Printing all solutions in N-Queen Problem  
 256. Word Break Problem using Backtracking  
@@ -290,7 +291,7 @@ Backtracking
 271. Partition of a set intoK subsets with equal sum  
 272. Find the K-th Permutation Sequence of first N natural numbers  
 
-Stacks and Queues
+Stacks and Queues  
 273.  Implement Stack from Scratch  
 274.  Implement Queue from Scratch  
 275. Implement 2 stack in an array  
@@ -330,7 +331,7 @@ Stacks and Queues
 309. Queue based approach or first non-repeating character in a stream.  
 310. Next Smaller Element  
 
-Heap
+Heap  
 311. Implement a Maxheap/MinHeap using arrays and recursion.  
 312. Sort an Array using heap. (HeapSort)  
 313. Maximum of all subarrays of size k.  
@@ -350,7 +351,7 @@ Heap
 327. Rearrange characters in a string such that no two adjacent are same.  
 328. Minimum sum of two numbers formed from digits of an array  
 
-Graphs
+Graphs  
 329. Create a Graph, print it  
 330. Implement BFS algorithm   
 331. Implement DFS Algo   
@@ -396,7 +397,7 @@ Graphs
 371. Minimise the cashflow among a given set of friends who have borrowed money from each other  
 372. Two Clique Problem  
 
-Trie
+Trie  
 374. Construct a trie from scratch  
 375. Find shortest unique prefix for every word in a given list  
 376. Word Break Problem | (Trie solution)  
@@ -404,7 +405,7 @@ Trie
 378. Implement a Phone Directory  
 379. Print unique rows in a given boolean matrix  
 
-Dynamic Programming
+Dynamic Programming  
 380. Coin ChangeProblem  
 381. Knapsack Problem  
 382. Binomial CoefficientProblem  
@@ -466,7 +467,7 @@ Dynamic Programming
 438. Find if a string is interleaved of two other strings  
 439. Maximum Length of Pair Chain  
 
-Bit Manipulation
+Bit Manipulation  
 440. Count set bits in an integer  
 441. Find the two non-repeating elements in an array of repeating elements  
 442. Count number of bits to be flipped to convert A to B  
